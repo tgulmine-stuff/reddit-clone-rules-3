@@ -1,0 +1,40 @@
+{
+  "rules": [
+    {
+      "id": 6,
+      "titles": ["Must be peer-reviewed research", "No summaries of summaries, rehosts, reviews, or reposts",
+      "No editorialized, sensationalized, or biased titles", "Research must be <6 months old", 
+      "No off-topic comments", "No jokes or memes", "No abusive or offensive comments", "No anecdotal comments", 
+      "Not scientific or dismissive of established work", "No medical advice"],
+      "descriptions": ["Submissions must directly link to recently published peer-reviewed research or media summary. Review articles are prohibited unless they contain new results.",
+      "Articles that obtain their information second-hand from other articles are not acceptable for submission. Websites that re-host press releases are prohibited.\n\nAll peer-reviewed articles must contain new research, data analysis, or meta-analysis. Review articles are prohibited unless they contain new results.\n\nReposting of existing, popular submissions is prohibited.",
+      "The title and content of submissions should not be editorialized, sensationalized, or biased. All titles must adhere to our headline rules.",
+      "All submissions must have been published within the past six months. This time requirement refers to the publication date of the research, not the article or web page. Ambiguous publication dates are determined by the first available date, which is typically the 'Published Online' or 'Pre-Print' date.",
+      "Comments must be on topic and not a meme or joke. Comments should constructively contribute to the discussion or be an attempt to learn more.",
+      "Comments must be on topic and not a meme or joke. Comments should constructively contribute to the discussion or be an attempt to learn more.",
+      "Abusive or offensive comments will be subject to removal and repeat or malicious offenders will be banned. Bots and novelty accounts are prohibited and will be banned immediately.",
+      "Comments that only rely on a user's non-professional anecdotal evidence to confirm or refute a study will be removed (e.g. \"I do that but that result doesn't happen to me\"). Comments should be limited in personal details and scientific in nature. Including references to peer-reviewed research to support your claims is highly encouraged.", 
+      "Comments that dispute well-established scientific concepts (e.g. gravity, vaccination, anthropogenic climate change, etc.) must be supported with appropriate peer-reviewed evidence. Links to personal blogs or 'skeptic' websites are not valid forms of evidence. Comments that are overtly fringe and/or unsubstantiated will be removed.",
+      "Offering or seeking medical advice is strictly prohibited and offending comments will be removed. Discussions regarding the advantages and/or disadvantages of certain treatments, diets, or supplements are allowed as long as relevant and reputable evidence is provided."]
+    },
+    {
+      "id": 7,
+      "titles": ["No US Internal News or Politics", "No Editorialized or Misleading Titles", "No Feature stories",
+      "No Editorials, Opinion or Analysis Pieces", "No Articles In Languages Other Than English",
+      "No Images, Videos or Audio Clips", "No Bigotry or Other Offensive Content", "No Personal Attacks On Other Users",
+      "No Memes, Gifs, unlabeled NSFW images", "No Old News Articles (≥ 1 Week old)"],
+      "descriptions": ["Articles about events within the US or related to the US internal political process with no involvement of foreign officials or international organizations and no effect on people outside the US are not allowed here. The large subreddits for these topics are /r/news and /r/politics.",
+      "Do not add opinion/commentary to the submission title. Don't add something that isn't covered by the article, and don't misrepresent the article. Adding a sentence from within the article that is more representative of the content is generally OK.\n\nAn article's title must not be misleading. It may be removed if the title states a source's opinion as fact, or misrepresents the facts in the article or multiple other sources.\n\nAll caps words are not allowed, except for acronyms of course.",
+      "Feature stories are journalistic reports providing more descriptive background information than a straight news report will contain. Dictionary.com: \"a newspaper or magazine article or report of a person, event, an aspect of a major event, or the like, often having a personal slant and written in an individual style.\"",
+      "/r/worldnews is for news, rather than analysis. There are several subreddits listed at the top of the page that are good for this. If the writer injects his/her opinion in the article or tries to draw any conclusion about a set of events, then it is no longer straight news and is not permitted in /r/worldnews.",
+      "This includes articles that are auto-translated.",
+      "If images, videos or audio files are part of an article that's fine, but the accompanying article must have some value of its own. Merely providing image captions or video descriptions isn't sufficient.",
+      "Hate speech directed towards an entire group of people who share a race, gender, sexual orientation, ethnicity, religion, nationality, social status or disability is not allowed. This also applies to user names.",
+      "You may criticize a user's comment but not their person. Calling people names shuts down discussion. Accusing another user of being a \"shill\" is considered a personal attack. Stick to the issues and remain civil.",
+      "Memes may show up in image or in text form. Both are not allowed.\n\nBesides, porn or shock images unrelated to the story discussed will always be removed and posting them is an easy way to get banned.",
+      "Old News is any news older than one week."]
+    }
+  ]
+}
+  
+ 
